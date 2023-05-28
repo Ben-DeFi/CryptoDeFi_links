@@ -1,6 +1,6 @@
 ![download](https://github.com/Ben-DeFi/CryptoDeFi_links/assets/134858219/03bd7f96-9bd8-4c86-9926-7062255e04aa)
 
-Useful Crypto & DeFi Links : 
+**Useful Crypto & DeFi Links : 
 
 Quick Notes on building a Crypto & DeFi ToolKit:
 
